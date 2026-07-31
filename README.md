@@ -17,6 +17,8 @@ Daily practice, notebooks, and exercises from my public **100 Days** learning se
 | XX–XX | Supervised learning | [`supervised-learning/`](./supervised-learning) | Regression, classification, tree models, and ensemble methods |
 | XX–XX | Unsupervised learning | [`unsupervised-learning/`](./unsupervised-learning) | Clustering, dimensionality reduction, and anomaly detection |
 
+| 67| Deep learning | [`deep-learning/`](./deep-learning) | Neural Network, Perceptron, Neuron|
+
 <!-- Fill the day ranges from your LinkedIn post history. -->
 
 ---
@@ -120,17 +122,3 @@ jupyter
 ```
 
 ---
-
-## What's next
-
-Deep Learning begins at **Day 67** — PyTorch, neural network foundations, and beyond.
-
----
-
-## Commit convention
-
-```
-Day 67: Tensors and neuron in PyTorch
-```
-
-One commit per day of the public series.
