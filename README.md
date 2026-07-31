@@ -13,9 +13,9 @@ Daily practice, notebooks, and exercises from my public **100 Days** learning se
 
 | Days | Topic | Folder | What's inside |
 |---|---|---|---|
-| 1–XX | NumPy & Pandas foundations | [`numpy-pandas-basics/`](./numpy-pandas-basics) | Array operations, broadcasting, DataFrames, cleaning and reshaping real datasets |
-| XX–XX | Supervised learning | [`supervised-learning/`](./supervised-learning) | Regression, classification, tree models, and ensemble methods |
-| XX–XX | Unsupervised learning | [`unsupervised-learning/`](./unsupervised-learning) | Clustering, dimensionality reduction, and anomaly detection |
+| 1–43 | NumPy & Pandas foundations | [`numpy-pandas-basics/`](./numpy-pandas-basics) | Array operations, broadcasting, DataFrames, cleaning and reshaping real datasets, MATHS |
+| 44–62 | Supervised learning | [`supervised-learning/`](./supervised-learning) | Regression, classification, tree models, and ensemble methods |
+| 63–66 | Unsupervised learning | [`unsupervised-learning/`](./unsupervised-learning) | Clustering, dimensionality reduction, and anomaly detection |
 | 67| Deep learning | [`deep-learning/`](./deep-learning) | Neural Network, Perceptron, Neuron|
 
 <!-- Fill the day ranges from your LinkedIn post history. -->
