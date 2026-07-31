@@ -89,8 +89,8 @@ Larger builds live in their own repositories so they read as projects rather tha
 
 | Project | Description | Repo |
 |---|---|---|
-| **SmartCart** | Customer segmentation with clustering — full pipeline from EDA through segment profiling | [→ repo](#) |
-| **Exoplanet Detection** | ISRO Bhartiya Antariksh Hackathon 2026 — TESS light-curve classification using BLS periodogram + Random Forest, 84% test accuracy | [→ repo](#) |
+| **SmartCart** | Customer segmentation with clustering — full pipeline from EDA through segment profiling | [→ repo](https://github.com/prince0911-tech/smartcart-customer-segmentation) |
+| **Exoplanet Detection** | ISRO Bhartiya Antariksh Hackathon 2026 — TESS light-curve classification using BLS periodogram + Random Forest, 84% test accuracy | [→ repo](https://github.com/prince0911-tech/ISRO-Nakshatras) |
 
 <!-- Replace # with the real URLs. -->
 
